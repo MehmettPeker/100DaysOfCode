@@ -10,3 +10,5 @@ priint("String Concatenation is done with the + sign")
 print(("New lines can be created with a \ and the letter n")
 
 """
+#Thonny programıyla işlem adımlarını sıra sıra gör.
+print("Merhaba " + input("What is your name") + "!") 
