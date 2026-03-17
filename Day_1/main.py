@@ -38,4 +38,4 @@ print("Merhaba" + "Halil")
 #Birleşitirme işlemini boşluk bırakmadan yapar.
 #3 Farklı boşluk bırakma yönetmi vardır. extra.py (12-14 satırlar)
 
-
+#exam_2.py örneğini çözdür.
