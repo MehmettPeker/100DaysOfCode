@@ -42,3 +42,10 @@ print("Merhaba" + "Halil")
 
 #exam_2.py örneğini çözdür.
 
+isim = "Ali"
+sayac= 0
+bos_liste= []
+for i in isim:
+    bos_liste.append(i)
+    sayac += 1
+print(sayac)

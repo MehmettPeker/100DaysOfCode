@@ -7,3 +7,9 @@ b) parantez önce açıldıysa paranetez önce kapalır.
 
 ####Yani şu şekilde akılda tutulabilir.####
 Önce neyi açtıysa onu kapat!
+
+3) Değişkenler
+
+4) input() fonksiyonu öğrendim.
+
+5) len() fonksiyonu öğrendim.
