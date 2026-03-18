@@ -78,5 +78,48 @@ print(5//3) #Yaptığı işlem ondalarıkları kaldırır.
 # 3. * veya / ==> birilerine üstünlüğü yok ilk olarak solda ki işlem yapılır.
 # 4. + veya - ==> birilerine üstünlüğü yok ilk olarak solda ki işlem yapılır.
 
-print(int(3 * 3 + 3 / 3 -3)) #Thonny göster
+print(3 * 3 + 3 / 3 -3) #Thonny göster
+#Ekran çıktısı 7.0 oluyor.
+ 
+#Soru => Eğer biz bunu 7 olarak göstermek isteseydik napardık?
+
+
+#Artılı Soru ==> Vücut kitle indexi hesaplama.
+# formül VKİ = kilonun boyun karesine bölümü
+# Not kiloyu kg boyu metre cinsinden olacak.
+# Çözüm exam_1.py de
+
+# Arttırma Azaltma işlemi.
+
+score = 0
+score = score + 1 
+print(score) #1
+#Bir farklı gösterimi kısa yol
+score += 1
+
+
+
+#Azaltma işlemi
+score1 = 1
+score1 = score1 - 1
+print(score1) #0
+#Kısayolu
+score1 -= 1
+
+
+# Çarpma İşlemi
+score2 = 2
+score2 = score2 * 2
+print(score2) #4
+#Kısayolu
+score *= 2
+
+
+# Bölme İşlemi
+score3 = 2
+score3 = score3 / 2
+print(score3) #1
+#Kısayolu
+score3 /= 2
+
 
