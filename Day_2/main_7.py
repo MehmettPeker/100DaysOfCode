@@ -29,3 +29,8 @@ print(f"İsminiz: {isim} Soyisminiz: {soyisim} Okul Numaranız: {okul_no} Sını
 # 1) Çok fazla + sembolü kullanmak zorunda kalmadık.
 # 2) TypeError hatası almadık.
 # 3) TypeError hatasında kurtulmak için dönüşüm yapmamıza gerek kalmadı.
+
+
+
+# Bölüm Sonu Ödevi ==> 
+# Hesap Ödeme Tutarı Hesaplayıcı örnek ve çözüm exam_2.py de
