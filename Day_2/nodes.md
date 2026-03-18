@@ -7,3 +7,5 @@ Bugün Öğrendiklerim.
 6) Bölme işleminde sonuç ondalıklı olur. 
 7) Eğer ondalıklı olmasını istemiyorsak // veya round() fonksiyonu kullanabiliriz.
 8) Programlamada işlem önceliğini öğrendim.
+9) Arttırma Azaltma Çarpma ve Bölme işlemlerini öğrendim.
+10) Formatif stringi öğrendim.
