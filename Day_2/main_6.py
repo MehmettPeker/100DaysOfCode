@@ -4,7 +4,7 @@ score = 0
 score = score + 1 
 print(score) #1
 #Bir farklı gösterimi kısa yol
-score += 1
+score += 1 # Çok önemli
 
 
 
@@ -29,4 +29,4 @@ score3 = 2
 score3 = score3 / 2
 print(score3) #1
 #Kısayolu
-score3 /= 2
+score3 /= 2 
