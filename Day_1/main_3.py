@@ -1,14 +1,17 @@
 
-#YORUM SATIRI EKLEME
+# YORUM SATIRI EKLEME
 
-#Tekli satırlarda yorum satırı yapmak için kullanılır.
+# Hashtag(#) tekli satırları yorum satırı yapmak için kullanılır.
 
-#input() fonksiyonuyla veri aldık.
+                    # YORUM SATIRLARI NE İÇİN KULLANILIR
+# 1) Yaptığımız işlemin ne alma geldiğini yazmak için kullanılabilir.
+
+# input() fonksiyonuyla veri aldık.
 input("Kullanıcı adınızı giriniz?")
 
-#Hesap Makinesi Programının kodları.
 
-#O anda çalıştırmak istemediğimiz aynı zamanda silmekte istemediğimiz kodları yorum satırına alarak kullanbiliriz. 
-#Kodu tekrar kullanmak istersek yorum satırında çıkarıp kullanmak yeterli olacaktır.
-#Mesala
-#print("Nasılsın") ==> yorum satırına aldım kullanmak istersem tekrardan hashtag'i kaldırabilirim.
+# 2) O anda çalıştırmak istemediğimiz aynı zamanda silmekte istemediğimiz kodları yorum satırına alarak kullanbiliriz.
+# Kodu tekrar kullanmak istersek yorum satırında çıkarıp kullanmak yeterli olacaktır.
+
+# print("5. 200 derece C'de 30 dakika pişirin.")  
+# print("Nasılsın")

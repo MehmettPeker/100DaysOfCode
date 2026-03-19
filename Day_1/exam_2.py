@@ -1,4 +1,4 @@
-# Fix the code below 👇
+
 # Hataları Bul
 
 """

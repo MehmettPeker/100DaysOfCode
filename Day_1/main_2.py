@@ -1,13 +1,14 @@
 
-#input() fonksiyonu ==> Kullanıcıdan veri almak için kullanılır.
-#print() fonksiyonunda ekrana yazdırma işlemi yapar.
-#input() fonksiyonunda ise kullanıcının bir veri girmesini isteriz.
-#İsminiz nedir? , Nerelisin?, Kaç yaşındasın, Kullanıcı adınız giriniz?, Şifrenizi giriniz?
 
-print("What is your name?")
+# input() fonksiyonu  ==> Kullanıcıdan veri almak için kullanılan fonksiyondur.
+# print() fonksiyonun ==> Ekrana yazdırma işlemi yapar fonksiyondur.
+# input() fonksiyonunda ile kullanıcının bir veri girmesini isteriz.
+# İsminiz nedir? , Nerelisin?, Kaç yaşındasın, Kullanıcı adınız giriniz?, Şifrenizi giriniz?
+
+print("Welcome")
 
 input("What is your name?")
 
-#Soru ==> Kullanıcıdan ismini isteyip Merhaba Mehmet! çıktısını veren programı yazınız? (Artılı soru)
+# Soru ==> Kullanıcıdan ismini isteyniz daha sonra ekran Merhaba Mehmet! çıktısını veren programı yazınız? (Artılı soru) Not: ! işareti olmak zorunda.
 # Çözüm exam_3.py de
 
