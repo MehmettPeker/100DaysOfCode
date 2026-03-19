@@ -1,7 +1,7 @@
-#Artılı Soru ==> Vücut kitle indexi hesaplama.
-# formül VKİ = kilonun boyun karesine bölümü
+# Artılı Soru ==> Vücut kitle indexi hesaplama.
+# Formül VKİ = kilonun boyun karesine bölümü
 
-#ÇÖZÜM
+# ÇÖZÜM
 boy = 1.65
 kilo = 84
 

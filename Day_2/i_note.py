@@ -1,7 +1,7 @@
 # Araştırma sorusu (Gelecek Haftaya öğrenip gelimeleri için) pythonda en yakına yuvarlamak için hangi fonksiyon kullanılır? 
 print(round(3.66))
 
-#Ek Bilgiler
+# Ek Bilgiler
 import math
 
 sayi = 3.66
@@ -12,8 +12,8 @@ print(round(sayi))      # 4
 print(math.ceil(sayi))  # 4
 print(math.floor(sayi)) # 3
 
-#Ek bilgi round fonksiyonu 2 paremetre alabilir.
-#Bu paremetre kaç basamak yuvarlamak istediğimi söyleriz
+# Ek bilgi round fonksiyonu 2 paremetre alabilir.
+# Bu paremetre kaç basamak yuvarlamak istediğimi söyleriz
 
 print(round(sayi,1))    # 3.7
 
@@ -30,4 +30,15 @@ bahsis_miktari = (toplam_hesap_tutari * bahsis) / 100
 
 hesap = round((toplam_hesap_tutari + bahsis_miktari) / toplam_kisi,2)
 
-print(f"Kişi başına düşen miktar: {hesap:.2f}")
+print(f"Kişi başına düşen miktar: {hesap:.2f}") # ÖNEMLİ NOKTA ==> {hesap:.2f}
+
+
+#Ek Bilgi: 
+# tpye() fonksiyonuna bir kaç örnek daha
+
+sinav = [1,2,3,4]
+print(type(sinav))  #list ==> Liste
+
+
+sinav2 = {"İsim":"Ali","Soyisim":"Peker"}
+print(type(sinav2)) #dict ==> Sözcük
